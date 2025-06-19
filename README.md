@@ -1,6 +1,6 @@
 # book_mate_kim
 
-A new Flutter project.
+BookMate라는 도서 독후감 관리 프로그램입니다.
 
 ## Getting Started
 
